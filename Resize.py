@@ -1,0 +1,1 @@
+# Resizing an image
