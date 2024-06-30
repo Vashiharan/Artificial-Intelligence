@@ -1,6 +1,6 @@
 # converting to gray image
 import cv2
-image = cv2.imread("img.png")
+image = cv2.imread("img.jpg")
 grayImage = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 
 cv2.imshow('original',image)
